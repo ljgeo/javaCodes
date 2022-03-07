@@ -1,0 +1,5 @@
+package com.wbl.DataProvidersEx;
+
+public interface LoginTestDDT {
+
+}
